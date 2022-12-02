@@ -1,0 +1,26 @@
+{
+    "todos":[
+        {
+            "id":1,
+            "completed":true,
+            "title":"JSON Server",
+            "description":"Learning JSON Server",
+            "userId":9
+        },
+        {
+            "id":2,
+            "completed":false,
+            "title":"Feedback session",
+            "description":"Giving feedback for the week",
+            "userId":2
+        },
+        {
+            "id":3,
+            "completed":false,
+            "title":"Figma",
+            "description":"Learning figma",
+            "userId":9
+        }
+    ],
+    "users":[]
+}
